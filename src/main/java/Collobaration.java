@@ -4,8 +4,11 @@ public class Collobaration {
         System.out.println("Hello, Group!");
 
         System.out.println("Hi ich bin Aslon ");
+
         System.out.println("Hi, ich bin Alex");
         System.out.println("Hi ich bin Jakob! Come and Code with me :D");
         System.out.println("Hi ich bin Vinnie. Convincing Git to do what we want :) ");
+
+        System.out.println("nächste Änderung von mir nach Vinnie ");
     }
 }
