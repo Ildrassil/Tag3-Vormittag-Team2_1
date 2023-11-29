@@ -3,7 +3,7 @@ public class Collobaration {
 
         System.out.println("Hello, Group!");
 
-        System.out.println("ich bin Aslon ");
+        System.out.println("Hi ich bin Aslon");
 
     }
 }
